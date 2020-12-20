@@ -1,6 +1,6 @@
 {
     "name": "Message DeletEr Bot",
-    "description": "Modular  Telegram Bot powered by @PyroGram!",
+    "description": "Modular  Telegram Bot powered by @filmsandtrends_Owner!",
     "keywords": [
         "telegram",
         "bot",
@@ -12,9 +12,9 @@
         "administrators",
         "messages"
     ],
-    "repository": "https://github.com/SpEcHiDe/DeleteMessagesRoBot",
-    "website": "https://telegram.dog/SpEcHlDe",
-    "success_url": "https://t.me/SpEcHlDe/857",
+    "repository": "https:",
+    "website": "https://t.me/filmsandtrends_Owner",
+    "success_url": "https://t.me/filmsandtrends_Owner",
     "env": {
         "APP_ID": {
             "description": "Get this value from my.telegram.org! Please do not steal"
